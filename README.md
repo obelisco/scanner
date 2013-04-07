@@ -10,7 +10,7 @@ Introducción
 El objetivo de esta tarea es familiarizarse con los conceptos relativos a la fase de análisis léxico de un compilador, mediante el desarrollo de un scanner para XHTML
 Para efectos de esta tarea, se podrá usar Flex o JFlex para generar el analizador léxico. El programa deberá transformar el código XHTML a una serie de tokens que tengan información que será usada en las siguientes fases del procesamiento.
 
-Descripción del programa
+Descripción del Programa
 
 Deberán escribir una especificación de Flex o JFlex para construir un scanner para XHTML. Los estudiantes deberán investigar la especificación estándar de XHTML, definir la lista de tokens que van a manejar, y generar las ER, y las acciones asociadas a esas ER, para procesar los tokens.
 
